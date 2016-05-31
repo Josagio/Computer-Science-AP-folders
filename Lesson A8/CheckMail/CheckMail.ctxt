@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CheckMail()
+comment0.text=\r\n\ Constructor\:\ initializing\ fields\ to\ default\ values\r\n
+comment1.params=weight\ length\ width\ height
+comment1.target=CheckMail(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constuctors\:\ Initialize\ fields\ to\ user\ values\r\n
+comment2.params=
+comment2.target=void\ dataInput()
+comment2.text=\r\n\ Obtains\ data\ from\ the\ user\r\n
+comment3.params=
+comment3.target=void\ printAnswer()
+comment3.text=\r\n\ Print\ out\ the\ solution\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=rownum\ colnum
+comment0.target=void\ printTable(int,\ int)
+comment0.text=\r\n\ Prints\ a\ Multiplication\ table\ given\ the\ number\ of\ rows\ and\ columns\r\n\ @param\ \ rownum\ \ Number\ of\ rows\r\n\ @param\ \ colnum\ \ Number\ of\ columns\r\n
+comment1.params=x
+comment1.target=java.lang.String\ pad(int)
+comment2.params=n
+comment2.target=void\ pyramid(int)
+comment2.text=\r\n\ Displays\ a\ pyramid\ pattern\ of\ stars\ \r\n\ @param\ \ n\ \ Number\ of\ lines\ to\ print\r\n
+comment3.params=
+comment3.target=void\ drawSunburst()
+comment3.text=\r\n\ Draws\ a\ sunburst\ pattern\ using\ the\ DrawingTool.\ The\ sunburst\ consists\ of\ 360\ lines\r\n\ each\ one\ degree\ apart.\ Uses\ the\ Color\ Class\ to\ change\ the\ colors\ of\ the\ pattern\r\n
+numComments=4

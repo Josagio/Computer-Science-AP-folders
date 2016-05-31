@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Square()
+comment0.text=\r\n\ Constructor\:\r\n\ Instantiates\ paper\ and\ pencil\ to\ basic\r\n\ values.\r\n
+comment1.params=
+comment1.target=void\ draw()
+comment1.text=\r\n\ This\ method\ will\ run\ all\ of\ the\ \r\n\ commands\ necessary\ to\ draw\ the\ square.\r\n
+comment2.params=
+comment2.target=void\ printDelay()
+comment2.text=\r\n\ This\ was\ created\ during\ the\ delay\ in\r\n\ class\r\n
+numComments=3

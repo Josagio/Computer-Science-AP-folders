@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KochCurve()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ KochCurve\r\n
+comment1.params=level\ length
+comment1.target=void\ drawKochCurve(int,\ int)
+comment1.text=\r\n\ This\ is\ used\ to\ make\ the\ kochCurve\r\n
+comment2.params=
+comment2.target=void\ drawSnowFlake()
+comment2.text=\r\n\ this\ will\ call\ the\ drawKochCurve\ multiple\ times\r\n\ and\ will\ create\ a\ snowflake\r\n
+numComments=3

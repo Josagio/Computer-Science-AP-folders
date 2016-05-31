@@ -1,0 +1,248 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\A Jars\apcslib.jar;C:\A Jars\chndocs.jar;C:\A Jars\chnutil.jar;C:\A Jars\gpdraw.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter
+-d
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java
+<---- end of javadoc command ---->
+Loading source file \\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java...
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:130: error: unclosed character literal
+        s = removeChar('/'', s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:130: error: not a statement
+        s = removeChar('/'', s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:130: error: ';' expected
+        s = removeChar('/'', s);
+                              ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:131: error: unclosed character literal
+        s = removeChar('/.',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:131: error: unclosed character literal
+        s = removeChar('/.',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:131: error: not a statement
+        s = removeChar('/.',s);
+                            ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:131: error: ';' expected
+        s = removeChar('/.',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:132: error: unclosed character literal
+        s = removeChar('/:',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:132: error: ';' expected
+        s = removeChar('/:',s);
+                         ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:132: error: unclosed character literal
+        s = removeChar('/:',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:132: error: ';' expected
+        s = removeChar('/:',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:133: error: unclosed character literal
+        s = removeChar('/;',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:133: error: unclosed character literal
+        s = removeChar('/;',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:133: error: not a statement
+        s = removeChar('/;',s);
+                            ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:133: error: ';' expected
+        s = removeChar('/;',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:134: error: unclosed character literal
+        s = removeChar('/,',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:134: error: ';' expected
+        s = removeChar('/,',s);
+                         ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:134: error: unclosed character literal
+        s = removeChar('/,',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:134: error: ';' expected
+        s = removeChar('/,',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:135: error: unclosed character literal
+        s = removeChar('/?',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:135: error: unclosed character literal
+        s = removeChar('/?',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:135: error: ';' expected
+        s = removeChar('/?',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:136: error: unclosed character literal
+        s = removeChar('/!',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:136: error: ';' expected
+        s = removeChar('/!',s);
+                         ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:136: error: unclosed character literal
+        s = removeChar('/!',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:136: error: ';' expected
+        s = removeChar('/!',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:137: error: unclosed character literal
+        s = removeChar('/"',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:137: error: unclosed string literal
+        s = removeChar('/"',s);
+                         ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:138: error: unclosed character literal
+        s = removeChar('/@',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:138: error: unclosed character literal
+        s = removeChar('/@',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:138: error: ';' expected
+        s = removeChar('/@',s);
+                            ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:138: error: illegal start of expression
+        s = removeChar('/@',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:139: error: unclosed character literal
+        s = removeChar('/#',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:139: error: illegal character: '#'
+        s = removeChar('/#',s);
+                         ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:139: error: unclosed character literal
+        s = removeChar('/#',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:139: error: ';' expected
+        s = removeChar('/#',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:140: error: unclosed character literal
+        s = removeChar('/$',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:140: error: ';' expected
+        s = removeChar('/$',s);
+                         ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:140: error: unclosed character literal
+        s = removeChar('/$',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:140: error: ';' expected
+        s = removeChar('/$',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:141: error: unclosed character literal
+        s = removeChar('/%',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:141: error: unclosed character literal
+        s = removeChar('/%',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:141: error: not a statement
+        s = removeChar('/%',s);
+                            ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:141: error: ';' expected
+        s = removeChar('/%',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:142: error: unclosed character literal
+        s = removeChar('/^',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:142: error: unclosed character literal
+        s = removeChar('/^',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:142: error: not a statement
+        s = removeChar('/^',s);
+                            ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:142: error: ';' expected
+        s = removeChar('/^',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:143: error: unclosed character literal
+        s = removeChar('/&',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:143: error: unclosed character literal
+        s = removeChar('/&',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:143: error: not a statement
+        s = removeChar('/&',s);
+                            ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:143: error: ';' expected
+        s = removeChar('/&',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:144: error: unclosed character literal
+        s = removeChar('/*',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:144: error: unclosed character literal
+        s = removeChar('/*',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:144: error: not a statement
+        s = removeChar('/*',s);
+                            ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:144: error: ';' expected
+        s = removeChar('/*',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:145: error: unclosed character literal
+        s = removeChar('/+',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:145: error: unclosed character literal
+        s = removeChar('/+',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:145: error: not a statement
+        s = removeChar('/+',s);
+                            ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:145: error: ';' expected
+        s = removeChar('/+',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:146: error: unclosed character literal
+        s = removeChar('/_',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:146: error: ';' expected
+        s = removeChar('/_',s);
+                         ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:146: error: unclosed character literal
+        s = removeChar('/_',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:146: error: ';' expected
+        s = removeChar('/_',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:147: error: unclosed character literal
+        s = removeChar('/-',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:147: error: unclosed character literal
+        s = removeChar('/-',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:147: error: not a statement
+        s = removeChar('/-',s);
+                            ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:147: error: ';' expected
+        s = removeChar('/-',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:148: error: unclosed character literal
+        s = removeChar('/=',s);
+                       ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:148: error: unclosed character literal
+        s = removeChar('/=',s);
+                          ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:148: error: not a statement
+        s = removeChar('/=',s);
+                            ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:148: error: ';' expected
+        s = removeChar('/=',s);
+                             ^
+\\A12-win-s01\0564data\USERS\STUDENTS\2018\1009244\Computer Science AP folders\Lesson A10\Lab Assignment A10.1 StringUtil Starter\StringUtil.java:187: error: illegal start of statement
+     }
+     ^
+73 errors

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grades()
+comment0.text=\r\n\ \ Constructor\ for\ the\ Grades\ object\r\n
+comment1.params=
+comment1.target=void\ start()
+comment1.text=\r\n\ \ Top\ level\ method\ that\ calls\ other\ private\ methods\ to\ compute\ the\r\n\ \ GPA\ and\ determine\ the\ elegibility\ status\r\n
+comment2.params=
+comment2.target=java.lang.String\ getEligibility()
+comment2.text=\r\n\ \ Computes\ the\ Grade\ Point\ Average.\r\n\r\n\ @return\ The\ eligibility\ value\r\n
+comment3.params=
+comment3.target=void\ getInputs()
+comment3.text=\r\n\ \ Repeatedly\ get\ grade\ inputs\ ('A',\ 'a'\ -\ 'F',\ 'f')\ and\ accumulate\r\n\ \ grade\ points\ until\ any\ other\ value\ is\ entered\r\n
+comment4.params=
+comment4.target=void\ computeGPA()
+comment4.text=\r\n\ \ Computes\ the\ Grade\ Point\ Average.\r\n
+comment5.params=
+comment5.target=void\ displayOutput()
+comment5.text=\r\n\ \ Display\ the\ the\ GPA\ and\ eligibility\ status.\r\n
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PiggyBank()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ piggyBank\r\n
+comment1.params=quarters\ dimes\ nickel\ penny
+comment1.target=PiggyBank(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ for\ a\ pre-set\ piggyBank\r\n
+comment2.params=
+comment2.target=void\ getTotal()
+comment3.params=
+comment3.target=void\ getCoins()
+comment4.params=moreQuarters
+comment4.target=int\ addQuarters(int)
+comment5.params=moreDimes
+comment5.target=int\ addDimes(int)
+comment6.params=moreNickels
+comment6.target=int\ addNickels(int)
+comment7.params=morePennys
+comment7.target=int\ addPennys(int)
+numComments=8

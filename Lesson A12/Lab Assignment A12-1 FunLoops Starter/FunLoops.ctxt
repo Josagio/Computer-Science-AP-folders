@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=void\ magicsquare(long)
+comment0.text=\r\n\ \ Strategy\:\ \ compare\ square\ and\ sum,\ if\ equal\ then\ print,\ else\ \r\n\ \ increase\ appropriate\ value.\ \ The\ values\ of\ square\ and\ sum\ will\ \r\n\ \ leap-frog\ each\ other,\ occasionally\ landing\ on\ each\ other\ which\ \r\n\ \ means\ we\ have\ found\ a\ magic\ square.\r\n
+comment1.params=a\ b
+comment1.target=void\ lcm(int,\ int)
+comment1.text=\r\n\ Determines\ the\ Least\ Common\ Multiple\ of\ two\ integers\ For\ Example\ the\ Least\ Common\r\n\ Multiple\ of\ the\ following\ pairs\:\r\n\ \ \ \ 2,\ 3\t\t\ \ \ \ LCM\ \=\ 6\r\n\ \ \ \ 4,\ 10\t\tLCM\ \=\ 20\r\n\ \ \ \ 12,\ 15\t\tLCM\ \=\ 60\r\n\ \ \ \ 7,\ 70\t\tLCM\ \=\ 70\r\n
+numComments=2

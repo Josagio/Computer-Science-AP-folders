@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FlowLayoutExample()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FlowLayoutExample\r\n
+comment1.params=
+comment1.target=void\ makeFrame()
+comment1.text=\r\n\ Place\ five\ components\ within\ a\ container\ managed\ by\r\n\ a\ FlowLayout.\r\n
+numComments=2

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name\ age\ gender\ idNum\ gpa\ major\ year
+comment0.target=CollegeStudent(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int)
+comment0.text=\r\n\ College\ student\ is\ a\ constructor\ subclass\ to\ student\ and\ will\ add\ \r\n\ aditional\ information\ like\ the\ year\ of\ graduation\ and\ their\ major\ in\ college\r\n
+comment1.params=
+comment1.target=java.lang.String\ getMajor()
+comment1.text=\r\n\ this\ will\ get\ the\ college\ students\ major\r\n
+comment2.params=
+comment2.target=int\ getYear()
+comment2.text=\r\n\ this\ will\ return\ the\ graduation\ year\ for\ the\ student\r\n
+comment3.params=major
+comment3.target=void\ setMajor(java.lang.String)
+comment3.text=\r\n\ this\ will\ set\ up\ the\ major\ for\ the\ student\r\n
+comment4.params=year
+comment4.target=void\ setYear(int)
+comment4.text=\r\n\ This\ will\ set\ up\ the\ year\ of\ graduation\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Displays\ the\ college\ student\ obj\ attributes\ as\ a\r\n\ string\ value\r\n\ \r\n\ Calls\ the\ superclass\ toString()\ method\r\n
+numComments=6

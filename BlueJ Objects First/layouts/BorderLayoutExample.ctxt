@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BorderLayoutExample()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BorderLayoutExample\r\n
+comment1.params=
+comment1.target=void\ makeFrame()
+comment1.text=\r\n\ Place\ five\ components\ in\ the\ available\ regions.\r\n
+numComments=2

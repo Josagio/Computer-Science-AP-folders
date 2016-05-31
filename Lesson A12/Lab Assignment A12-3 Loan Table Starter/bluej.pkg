@@ -1,0 +1,25 @@
+#BlueJ package file
+objectbench.height=76
+objectbench.width=1580
+package.editor.height=705
+package.editor.width=1482
+package.editor.x=-22
+package.editor.y=42
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=windows-1252
+target1.editor.height=860
+target1.editor.width=800
+target1.editor.x=800
+target1.editor.y=0
+target1.height=50
+target1.name=LoanTable
+target1.naviview.expanded=false
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=80
+target1.x=170
+target1.y=90

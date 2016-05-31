@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RectangleDriver()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RectangleDriver\r\n
+comment1.params=
+comment1.target=void\ rectA()
+comment2.params=
+comment2.target=void\ rectB()
+comment3.params=
+comment3.target=void\ rectC()
+comment4.params=myX\ myY\ height\ width
+comment4.target=void\ rectangle(double,\ double,\ double,\ double)
+numComments=5

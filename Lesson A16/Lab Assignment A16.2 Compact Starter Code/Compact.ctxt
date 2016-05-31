@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Compact(java.lang.String)
+comment1.params=fileName
+comment1.target=void\ readFile(java.lang.String)
+comment1.text=\r\n\ Loads\ text\ file\ numbers.txt\ into\ myList.\ \ Values\ are\ stored\ from\r\n\ positions\ 0..myHowMany-1.\ \ Returns\ the\ number\ of\ data\ values\ as\ howMany\r\n
+comment2.params=
+comment2.target=void\ printList()
+comment2.text=\r\n\ prints\ list\r\n
+comment3.params=
+comment3.target=void\ compact()
+comment3.text=\r\n\ Logic\ of\ algorithm\:\ \ Each\ value\ in\ the\ list\ is\ examined.\ \ If\ a\r\n\ non-zero\ element\ is\ found,\ it\ is\ moved\ to\ position\ pos,\ then\ pos\r\n\ is\ incremented\ +1.\r\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Payments()
+comment1.params=principal\ rate\ payment
+comment1.target=Payments(double,\ double,\ double)
+comment2.params=
+comment2.target=void\ loanTable()
+comment3.params=
+comment3.target=double\ getPrincipal()
+comment4.params=
+comment4.target=void\ getData()
+numComments=5

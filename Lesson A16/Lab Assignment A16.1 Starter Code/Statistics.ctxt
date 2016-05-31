@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Statistics(java.lang.String)
+comment0.text=\r\n\ constructor\r\n\ \ \ \ Initialize\ myHowMany\ and\ load\ data\ file\r\n
+comment1.params=fileName
+comment1.target=void\ readFile(java.lang.String)
+comment1.text=\r\n\ Loads\ text\ file\ numbers.txt\ into\ myList.\ Values\ are\ stored\ from\r\n\ positions\ 0..myHowMany-1.\ Returns\ the\ number\ of\ data\ values\ as\ howMany\r\n
+comment2.params=n
+comment2.target=double\ square(double)
+comment2.text=\r\n\ returns\ square\ for\ n\r\n
+comment3.params=
+comment3.target=double\ average()
+comment3.text=\r\n\ returns\ average\ of\ values\ in\ vector\ data\r\n
+comment4.params=
+comment4.target=double\ stdDev()
+comment4.text=\r\n\ finds\ standard\ deviation\ of\ values\ in\ vector\ data\r\n
+comment5.params=scores
+comment5.target=int\ findLargest(int[])
+comment5.text=\r\n\ finds\ the\ largest\ integer\ in\ vector\ scores.\ \ This\ vector\ is\ sized\ from\r\n\ 0..100,\ with\ each\ element\ storing\ the\ quantity\ of\ each\ number\ from\r\n\ 0..100.\r\n
+comment6.params=
+comment6.target=void\ findMode()
+comment6.text=\r\n\ The\ vector\ data\ is\ analyzed\ and\ transferred\ into\ a\ smaller\ vector\r\n\ smallList\ (0..100).\ \ For\ each\ occurrence\ of\ n\ in\ vector\ data,\r\n\ smallList[n]\ is\ incremented\ +1.\ \ function\ Largest\ is\ then\ called\r\n\ to\ find\ the\ largest\ quantity\ in\ vector\ smallList.\ \ The\ mode(s)\r\n\ is/are\ printed\ out.\r\n
+numComments=7

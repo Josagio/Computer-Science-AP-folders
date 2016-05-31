@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=cents
+comment0.target=machine(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ machine\r\n
+comment1.params=user
+comment1.target=void\ calcuate(java.lang.String)
+numComments=2

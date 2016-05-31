@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Multiplication()
+comment0.text=\r\n\ different\ version\ of\ fibonacci\ using\r\n\ multiplication\ as\ the\ replacements\r\n\ this\ is\ used\ to\ setup\ the\ limit\ to\ help\ the\ calculation\ work\r\n
+comment1.params=valueA\ valueB
+comment1.target=int\ calculateMultiplication(int,\ int)
+comment1.text=\r\n\ The\ calculations\ for\ multiplications\r\n
+numComments=2

@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\A Jars\apcslib.jar;C:\A Jars\chndocs.jar;C:\A Jars\chnutil.jar;C:\A Jars\gpdraw.jar;C:\A Jars\gameEnvironment.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;U:\Computer Science AP folders\Lesson A3\Coins
+-d
+U:\Computer Science AP folders\Lesson A3\Coins\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+U:\Computer Science AP folders\Lesson A3\Coins\machine.java
+<---- end of javadoc command ---->
+Loading source file U:\Computer Science AP folders\Lesson A3\Coins\machine.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_45
+Building tree for all the packages and classes...
+Generating U:\Computer Science AP folders\Lesson A3\Coins\doc\machine.html...
+U:\Computer Science AP folders\Lesson A3\Coins\machine.java:8: warning - @author: is an unknown tag.
+U:\Computer Science AP folders\Lesson A3\Coins\machine.java:8: warning - @version: is an unknown tag.
+Generating U:\Computer Science AP folders\Lesson A3\Coins\doc\package-frame.html...
+Generating U:\Computer Science AP folders\Lesson A3\Coins\doc\package-summary.html...
+Generating U:\Computer Science AP folders\Lesson A3\Coins\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating U:\Computer Science AP folders\Lesson A3\Coins\doc\allclasses-frame.html...
+Generating U:\Computer Science AP folders\Lesson A3\Coins\doc\allclasses-noframe.html...
+Generating U:\Computer Science AP folders\Lesson A3\Coins\doc\index.html...
+Generating U:\Computer Science AP folders\Lesson A3\Coins\doc\stylesheet.css...
+2 warnings

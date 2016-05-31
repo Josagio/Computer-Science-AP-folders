@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Face()
+comment0.text=\r\n\ this\ is\ going\ to\ be\ used\ \r\n\ to\ create\ a\ face\r\n
+comment1.params=
+comment1.target=void\ draw()
+comment1.text=\r\n\ This\ method\ will\ run\ all\ of\ the\ \r\n\ commands\ necessary\ to\ draw\ the\ square.\r\n
+comment2.params=
+comment2.target=void\ drawHead()
+comment2.text=\r\n\ This\ method\r\n\ will\ draw\ the\ outside\ of\ the\ face\r\n
+numComments=3

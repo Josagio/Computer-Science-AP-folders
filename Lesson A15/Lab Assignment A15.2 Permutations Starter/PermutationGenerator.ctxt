@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=lSize
+comment0.target=PermutationGenerator(int)
+comment0.text=\r\n\ \ Constructor\ for\ the\ PermutationGenerator\ object\r\n\r\n\ @param\ \ lSize\ \ Number\ of\ integers\ in\ the\ permutation\ list\r\n
+comment1.params=
+comment1.target=PermutationGenerator()
+comment1.text=\r\n\ \ Constructor\ for\ the\ PermutationGenerator\ object.\ Sets\ default\r\n\ \ permutation\ list\ size\ to\ 10\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ nextPermutation()
+comment2.text=\r\n\ \ Generates\ a\ random\ permutation.\ Fills\ an\ ArrayList\ with\ the\r\n\ \ numbers\ 1\ to\ listSize\ so\ that\ no\ two\ entries\ of\ the\ array\ have\r\n\ \ the\ same\ contents.\ Makes\ a\ second\ ArrayList\ and\ fills\ it\ with\r\n\ \ the\ numbers\ 1\ to\ listSize.\ Then\ picks\ one\ of\ those\ at\ random\r\n\ \ (using\ Random.nextInt(int),\ removes\ it,\ and\ appends\ it\ to\ the\r\n\ \ permutation\ ArrayList.\ This\ operation\ is\ repeated\ listSize\ times.\r\n\r\n\ @return\ \ \ \ Random\ permutation\ ArrayList\r\n
+numComments=3

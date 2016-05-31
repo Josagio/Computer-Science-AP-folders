@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rectangle()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle\r\n
+comment1.params=myX\ myY\ height\ width
+comment1.target=void\ draw(double,\ double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle\r\n
+comment2.params=myY\ height
+comment2.target=double\ calcEdgeSide(double,\ double)
+comment3.params=myX\ width
+comment3.target=double\ calcEdgeTop(double,\ double)
+comment4.params=
+comment4.target=double\ getPerimeter()
+comment5.params=
+comment5.target=double\ getArea()
+numComments=6

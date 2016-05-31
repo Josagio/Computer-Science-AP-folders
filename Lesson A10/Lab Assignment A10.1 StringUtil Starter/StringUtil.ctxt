@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=java.lang.String\ PigLatin(java.lang.String)
+comment0.text=\r\n\ \ Returns\ String\ s\ converted\ into\ Pig\ Latin.\r\n\ \ This\ method\ calls\ the\ helper\ method\ deWord(s)\r\n\ \ which\ will\ return\ the\ word\ in\ Pig\ latin\r\n
+comment1.params=s
+comment1.target=java.lang.String\ deWord(java.lang.String)
+comment1.text=\r\n\ Recursively\ splits\ the\ String\ into\ individual\ \r\n\ words\ and\ calls\ latinate.\r\n
+comment2.params=s
+comment2.target=java.lang.String\ latinate(java.lang.String)
+comment2.text=\r\n\ Applies\ the\ rules\ for\ Pig\ Latin\ to\ the\ String.\r\n\ precondition\:\ s\ is\ a\ single\ word\ with\ no\ spaces\r\n\ Lab\ Assignment\ A9.1\ Problem\ \#4\r\n
+comment3.params=s
+comment3.target=boolean\ palindrome(java.lang.String)
+comment3.text=\r\n\ \ Returns\ true\ if\ s\ is\ a\ palindrome,\ false\ if\ not.\r\n\ \ This\ method\ will\ use\ the\ helper\ method\ compress(s)\r\n\ \ Lab\ Assignment\ A9.1\ Problem\ \#3\r\n
+comment4.params=s
+comment4.target=java.lang.String\ compress(java.lang.String)
+comment4.text=\r\n\ Removes\ all\ punctuation\ and\ converts\ s\ to\ lower\ case.\r\n
+comment5.params=c\ s
+comment5.target=java.lang.String\ removeChar(char,\ java.lang.String)
+comment5.text=\r\n\ Returns\ a\ String\ with\ the\ specified\ char\ removed\ from\ s\r\n
+comment6.params=s
+comment6.target=boolean\ match(java.lang.String)
+comment6.text=\r\n\ Recursively\ Compares\ front\ and\ end\ values.\ \ If\ they\ match,\ remove\ them\r\n\ and\ call\ the\ method\ again\ with\ the\ ends\ removed.\ \ If\ they\ \r\n\ ever\ don't\ match,\ return\ false.\ \ If\ we\ reach\ 0\ or\ 1\ length,\ return\ true.\r\n
+comment7.params=s
+comment7.target=java.lang.String\ reverse(java.lang.String)
+comment7.text=\r\n\ \ Returns\ a\ String\ that\ is\ s\ in\ reverse.\r\n\ \ Lab\ Assignment\ A9.1\ Problem\ \#2\r\n
+numComments=8

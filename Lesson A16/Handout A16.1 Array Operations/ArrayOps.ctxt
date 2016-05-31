@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayOps()
+comment0.text=\r\n\ constructor\r\n
+comment1.params=source\ target
+comment1.target=void\ copy(int[],\ int[])
+comment1.text=\r\n\ Copy\ source\ to\ target\r\n
+comment2.params=list
+comment2.target=void\ printList(int[])
+comment2.text=\r\n\ list\ is\ a\ reference\ parameter.\ list\ is\ the\ \r\n\ same\ array\ as\ the\ array\ named\ data\ in\ the\r\n\ driver\ class\r\n
+comment3.params=list
+comment3.target=void\ squareList(int[])
+comment3.text=\r\n\ Array\ list\ is\ a\ local\ alias\ for\ the\ array\ data\ in\ the\ driver\ class.\r\n\ Any\ reference\ to\ a\ local\ list\ is\ a\ reference\ to\ array\ data\ in\ the\r\n\ driver\ class.\r\n
+comment4.params=list
+comment4.target=void\ rotateList(int[])
+comment4.text=\r\n\ This\ function\ is\ working\ with\ a\ local\ copy\ of\ the\ array\ passed\r\n\ as\ an\ argument.\ Changes\ to\ local\ array\ list\ will\ have\ no\ effect\r\n\ on\ the\ array\ data\ in\ the\ calling\ method.\ \r\n\ \r\n\ This\ function\ will\ shift\ each\ value\ one\ cell\ to\ the\ right.\ The\ value\ \r\n\ in\ list[list.length-1]\ will\ be\ moved\ to\ list[0].\ Before\ the\ function\ \r\n\ is\ completed,\ printList\ will\ be\ called.\ The\ point\ of\ this\ function\ is\ \r\n\ to\ illustrate\ an\ array\ as\ a\ value\ parameter.\r\n
+numComments=5

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name\ age\ gender\ subject\ salary
+comment0.target=Teacher(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ This\ will\ call\ the\ super\ class\ and\ create\ a\ new\ subclass\ called\ teacher\r\n\ it\ will\ find\ aditionall\ information\ like\ the\ subject\ they\ teach\r\n\ and\ their\ salary.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getSubject()
+comment1.text=\r\n\ @return\ return\ a\ Student\ ID\ number\r\n
+comment2.params=
+comment2.target=double\ getSalary()
+comment2.text=\r\n\ @return\ return\ a\ student\ grade-point-average\r\n
+comment3.params=subject
+comment3.target=void\ setSubject(java.lang.String)
+comment3.text=\r\n\ @param\ idNum\:\ A\ student's\ new\ ID\ number\r\n\ \r\n\ The\ instance\ variable\ myIdNum\ has\ been\ reset\ to\ a\ new\ value\r\n\ for\ the\ current\ student\r\n
+comment4.params=salary
+comment4.target=void\ setSalary(double)
+comment4.text=\r\n\ @param\ \ gpa\:\ \ A\ student's\ grade-point-average\r\n\ Reset\ the\ current\ student's\ field\ myGPA\ to\ gpa\ value\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Display\ the\ student\ object\ attributes\ as\ a\r\n\ string\ value\r\n\ \r\n\ Calls\ the\ superclass\ toString()\ method\r\n
+numComments=6

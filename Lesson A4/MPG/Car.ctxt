@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=odometerReading
+comment0.target=Car(int)
+comment0.text=\r\n\ Creates\ a\ new\ instance\ of\ a\ car\ object\ with\ the\ startin\r\n\ odemeter\ readings\r\n
+comment1.params=odemeterReading\ gallons
+comment1.target=void\ fillup(int,\ double)
+comment2.params=
+comment2.target=double\ calculateMPG()
+comment3.params=
+comment3.target=double\ resetMPG()
+numComments=4
